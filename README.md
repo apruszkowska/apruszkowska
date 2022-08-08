@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">A future frontend developer from Poland</h3>
+
 
 - 👨‍💻 My latest project [apruszkowska.github.io](apruszkowska.github.io)
 
