@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Anna
 
 
-- 👨‍💻 My latest project https://apruszkowska.github.io/, Tip Calculator App
+- 👨‍💻 My latest projects: https://apruszkowska.github.io/, Tip Calculator App
 
