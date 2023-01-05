@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Anna
 
 
-- 👨‍💻 My latest projects: https://apruszkowska.github.io/, Tip Calculator App.
+- 👨‍💻 My latest projects: Color Picker, Tip Calculator App, Advice Generator App
 - :hourglass: Currently learning TypeScript.
 
