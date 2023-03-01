@@ -2,5 +2,5 @@
 
 
 - 👨‍💻 My latest projects: Color Picker, Tip Calculator App, Advice Generator App
-- :hourglass: Currently learning TypeScript.
+- :hourglass: Currently learning React.
 
