@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Anna
 
 
-- 👨‍💻 My latest projects: React Website, Color Picker, Tip Calculator App, Advice Generator App
+- 👨‍💻 My latest projects: Codisign, React Website, Tip Calculator App
 - :hourglass: Currently learning React, Redux.
 
